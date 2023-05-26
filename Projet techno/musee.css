@@ -1,0 +1,82 @@
+body{
+    background-image: url('image/carbonne.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+input[type="submit"]{
+    width: 15%;
+    height: 28px;
+    padding: 3px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+input[type=text]{
+    width: 15%;
+    height: 15px;
+    padding: 3px;
+    border: 1px solid red;
+    border-radius: 7px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+input[type=email]{
+    width: 15%;
+    height: 15px;
+    padding: 3px;
+    border: 1px solid red;
+    border-radius: 7px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+input[type=number]{
+    width: 15%;
+    height: 15px;
+    padding: 3px;
+    border: 1px solid red;
+    border-radius: 7px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+input[type=password]{
+    width: 15%;
+    height: 15px;
+    padding: 3px;
+    border: 1px solid red;
+    border-radius: 7px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+select{
+    width: 15%;
+    height: 27px;
+    padding: 3px;
+    border: 1px solid red;
+    border-radius: 7px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.avatar{
+    display: flex;
+    width: 80%;
+    margin-left: 36%;
+}
+hr{
+    border: 3.5px solid black;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+.identifiant{
+    background-color: rgba(236, 181, 221, 0.867);
+    padding: 15px 3px 15px 3px;
+}

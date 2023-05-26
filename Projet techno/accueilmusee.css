@@ -1,0 +1,129 @@
+body{
+    
+    text-align: center;
+    background-color: rgb(7, 7, 7);
+    color: white;
+}
+input[type="submit"]{
+    width: 20%;
+    height: 20px;
+    background-color:black;
+    color: white;
+    border-radius: 15px;
+    cursor: cell;
+
+}
+
+hr{
+    border: solid white 4px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+image{
+    border-radius: 2px;
+    border: 1px solid rgb(255, 255, 255);
+  padding: 8px;
+   }
+
+.contenant
+{
+border-radius: 50%;
+display: inline-block;
+
+}
+
+.logo
+{
+    position: absolute;
+    left: 5%;
+    top: 50%;
+    border: solid black 2px;
+    padding: 20px;
+    width: 100%;
+    background-color: white;
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+
+.texte_centrer {
+    text-align: left;
+    position: absolute;
+    left: 10%;
+    top: 110%;
+    color: white;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    
+}
+
+.contenuesuper{
+    border-radius: 50%;
+display: inline-block;
+}
+
+.texte_super{
+    position: absolute;
+    left: 10%;
+    top: 220%;
+    color: rgb(235, 235, 235);
+    width: 10px;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px; 
+}
+
+.contenueconcept{
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.texte_concept{
+    position: absolute;
+    left: 50%;
+    top: 220%;
+    color: rgb(235, 235, 235);
+    width: 10px;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px; 
+}
+
+.contenuef1 {
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.texte_f1{
+    position: absolute;
+    left: 25%;
+    top: 270%;
+    color: rgb(235, 235, 235);
+    width: 10px;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px; 
+}
+
+.contenuecollec{
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.texte_collec{
+    position: absolute;
+    left: 50%;
+    top: 270%;
+    color: rgb(235, 235, 235);
+    width: 10px;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px; 
+}
+
